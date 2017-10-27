@@ -37,6 +37,7 @@ public class ItemDetailActivity extends AppCompatActivity {
         });
 
         Log.i("Tag","Testing GIT");
+        Log.i("Tag","Testing GIT for the second commit with different option");
         // Show the Up button in the action bar.
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
